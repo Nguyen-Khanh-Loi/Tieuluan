@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <Ten>Nhân</Ten>
+    <Diachi>Huế</Diachi>
+    <Sodth>0967495620</Sodth>
+    <Ghichu>Bạn bè</Ghichu>
+  </Table1>
+  <Table1>
+    <Ten>Nguyễn Văn A</Ten>
+    <Diachi>Quảng Trị</Diachi>
+    <Sodth>123455</Sodth>
+    <Ghichu>1234566778</Ghichu>
+  </Table1>
+</NewDataSet>
